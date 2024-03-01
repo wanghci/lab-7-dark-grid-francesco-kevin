@@ -1,0 +1,64 @@
+@media (prefers-color-scheme: dark) {
+    .dark {
+        .main-head {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .content {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .main-nav {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .side {
+        background-color: rgb(25, 24, 24);
+        color: white;
+        }
+        .ad {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .main-footer {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        
+      }
+      body{
+        background-color: rgb(25, 24, 24);
+      }
+    }
+
+      .dark {
+        .main-head {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .content {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .main-nav {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .side {
+        background-color: rgb(25, 24, 24);
+        color: white;
+        }
+        .ad {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        .main-footer {
+            background-color: rgb(25, 24, 24);
+            color: white;
+        }
+        body{
+            background-color: rgb(25, 24, 24);
+        }
+    }
+
+    
